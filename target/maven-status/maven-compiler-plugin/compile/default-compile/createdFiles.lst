@@ -1,0 +1,12 @@
+com\gkbvision\TelegramBot\MessageLogger.class
+com\gkbvision\TelegramBot\CentralDatabase.class
+com\gkbvision\TelegramBot\SummeryReport.class
+com\gkbvision\TelegramBot\CompletedOrderService.class
+com\gkbvision\TelegramBot\DispatchOrderService.class
+com\gkbvision\TelegramBot\LocationResolver.class
+com\gkbvision\TelegramBot\ServerConfig.class
+com\gkbvision\TelegramBot\LocalSqlServer.class
+com\gkbvision\TelegramBot\MyTelegramBot.class
+com\gkbvision\TelegramBot\PendingOrderService.class
+com\gkbvision\TelegramBot\App.class
+com\gkbvision\TelegramBot\StageService.class
