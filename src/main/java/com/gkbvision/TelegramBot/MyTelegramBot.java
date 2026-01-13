@@ -23,8 +23,8 @@ import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
 public class MyTelegramBot extends TelegramLongPollingBot {
 
     // === Replace with your bot token and username ===
-    private static final String BOT_TOKEN = "8223851470:AAGUSdhKcFt8cZCOGPiiYyQ5ObhHW39ur60";
-    private static final String BOT_USERNAME = "GKBVisionBot";
+    private static final String BOT_TOKEN = "8153752058:AAFmgrkYoLE8ajMoxzDtny0OEwMULb61RwM";
+    private static final String BOT_USERNAME = "GKBTestBot";
  // Temporary login state tracking
     private final Map<Long, String> loginStep = new HashMap<>();
     private final Map<Long, String> tempUsername = new HashMap<>();
