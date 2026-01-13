@@ -47,6 +47,7 @@
         <version>3.6.3</version>
         <configuration>
           <mainClass>com.gkbvision.TelegramBot.App</mainClass>
+          <classpathScope>compile</classpathScope>
         </configuration>
       </plugin>
     </plugins>
