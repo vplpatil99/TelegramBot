@@ -78,7 +78,7 @@ public class StageService {
   public String getOrderDetailsMessages(String lorderno) {
 	String messages = "";
 	String labcode = lorderno.substring(0, 3);
-	System.out.print(labcode);
+	// System.out.print(labcode);
 	LocalSqlServer obj=ServerConfig.getServerForLabCode(labcode);
 	if(obj==null) {
 		return messages;
